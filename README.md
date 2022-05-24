@@ -18,9 +18,6 @@
 
 🔎 I am looking for new challenges, in order to improve my skills as a programmer and thus also gain experience in a work team where I could learn from my teammates.
 
-### My projects!
-
-## DOGSAP
 
 
 
